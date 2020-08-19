@@ -1,0 +1,46 @@
+/* ol, ul{
+    list-style: none;
+}
+
+.header{
+    background-color: red;
+
+    height: 30px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.menu{
+    height: inherit;
+}
+
+.menu ol{
+    display: flex;
+    height: inherit;
+}
+
+.menu ol li{
+    height: inherit;
+    padding: 0px 7.5px;
+}
+
+.menu a{
+    height: inherit;
+    display: flex;
+    text-decoration: none;;
+}
+
+.apps{
+    width: 30px;
+    height: 30px;
+    background-size:30px 30px 30px 30px;
+    background-image: url('../images/apps-logo.png');
+    background-repeat: no-repeat;
+
+}
+
+.menu button{
+    
+} */
+
