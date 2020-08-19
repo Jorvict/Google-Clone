@@ -1,3 +1,40 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.header{
+    width: 100%; /*Es para que ocupe el 100% del ancho y en caso se disminuya el tamaño, esta se adapte*/
+    height: 60px;
+}
+.header .menu{
+    display: flex;
+    justify-content: flex-end;
+}
+.header .menu .nav-right-section{
+    width: 250px;
+    height: auto;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+.header .menu .nav-right-section a{
+    margin-right: 10px;
+    color: #000000;
+    
+}
+
+
+
 /* ol, ul{
     list-style: none;
 }
