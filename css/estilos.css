@@ -32,52 +32,17 @@ a{
     color: #000000;
     
 }
-
-
-
-/* ol, ul{
-    list-style: none;
-}
-
-.header{
-    background-color: red;
-
-    height: 30px;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-}
-
-.menu{
-    height: inherit;
-}
-
-.menu ol{
-    display: flex;
-    height: inherit;
-}
-
-.menu ol li{
-    height: inherit;
-    padding: 0px 7.5px;
-}
-
-.menu a{
-    height: inherit;
-    display: flex;
-    text-decoration: none;;
-}
-
-.apps{
-    width: 30px;
-    height: 30px;
-    background-size:30px 30px 30px 30px;
+.header .menu .nav-right-section .menu-icon{
     background-image: url('../images/apps-logo.png');
     background-repeat: no-repeat;
-
+    background-position: center;
+    background-size: contain;
+    width: 25px;
+    height: 25px;
+}
+.menu .nav-right-section img{
+    border-radius: 50%;
+    margin-left: 10px;
 }
 
-.menu button{
-    
-} */
 
